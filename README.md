@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm MD. Nazim Uddin</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+Nazim+Uddin!;" />
+</h1>
 <h3 align="center">I am a passionate full-stack web application developer with a hardworking and always learning mentality.My goal is to be a professional software architect and I am working hard toward that.</h3>
 
 <img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b787b540-b5f9-4f8c-ab0b-cb6f1df97d4f/d4bog6o-a4f56421-bf32-4ea4-bdde-71e6de95d589.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3ODdiNTQwLWI1ZjktNGY4Yy1hYjBiLWNiNmYxZGY5N2Q0ZlwvZDRib2c2by1hNGY1NjQyMS1iZjMyLTRlYTQtYmRkZS03MWU2ZGU5NWQ1ODkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IiP84r2DU8ltJSb6Vy55p1cY-ZxlqckQbbMUU01RLEg" >
