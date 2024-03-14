@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Nazim Uddin</h1>
 <h3 align="center">I am a passionate full-stack web application developer with a hardworking and always learning mentality.My goal is to be a professional software architect and I am working hard toward that.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/fzPJ.gif" >
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim1971&label=Profile%20views&color=0e75b6&style=flat" alt="nazim1971" /> </p>
 
