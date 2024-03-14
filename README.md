@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React & JavaScript.**
 
-- 📫 How to reach me <a href="md.nazimuddinaj@gmail.com">Here...</a>
+- 📫 How to reach me **md.nazimuddinaj@gmail.com**
 
 - ⚡ Fun fact **I think I am Unstoppable.**
 
