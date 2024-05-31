@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React & JavaScript.**
 
-- 📫 How to reach me **md.nazimuddinaj@gmail.com**
+- 📫 How to reach me **nazim1971.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am Unstoppable.**
 
