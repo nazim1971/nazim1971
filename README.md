@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim1971&label=Profile%20views&color=0e75b6&style=flat" alt="nazim1971" /> </p>
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, Next js.**
+- 🌱 I’m currently learning **Node, Express, MongoDB, Next js, Mysql.**
 
-- 💬 Ask me about **React & JavaScript.**
+- 💬 Ask me about **React, JavaScript, Express**
 
 - 📫 How to reach me **nazimmuddin10@gmail.com**
 
