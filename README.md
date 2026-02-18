@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Next js, TypeScript, PostgreSQL**
 
-- 📫 How to reach me **nazimmuddin10@gmail.com**
+- 📫 How to reach me **md.nazimuddinaj@gmail.com**
 
 - ⚡ Fun fact **I think I am Unstoppable.**
 
